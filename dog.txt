@@ -1,1 +1,3 @@
 this is dog.txt
+
+this is example of git tutorials
